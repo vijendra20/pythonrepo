@@ -1,0 +1,25 @@
+l=50
+b=10
+a=l*b
+print(a)
+print("===========areaofrectangle===============")
+l=10
+b=30
+a=l*b
+print(a)
+print("===========perimeterofrectangle===============")
+l=60
+b=70
+a=2*l+b
+print(a)
+print("============perimetrofrectangle===============")
+l=90
+b=30
+a=2*l+b
+print(a)
+print("============perimeter of triangle===============")
+a=90
+b=30
+c=50
+p=a+b+c
+print(p)
