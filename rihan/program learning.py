@@ -14,4 +14,7 @@ total=a+b+c+d+e
 print(total
 
       "i am learning a programing in carier craft indtitute"
+"this is a programming calculation "
+      "there arew so many files to lern coding "
+      " i am trying to add program in a git hub profile"
       
