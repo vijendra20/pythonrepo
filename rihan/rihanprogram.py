@@ -11,3 +11,9 @@ helpersalery=12000
 electricitybjill=4500
 totalprofit=shopprofit-rent-helpersalery-electricitybjill
 print(totalprofit)
+
+rihan=16000
+tax=1700
+savings=rihan-tax
+print(savings)
+
