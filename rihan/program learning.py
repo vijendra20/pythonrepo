@@ -11,5 +11,7 @@ c=600
 d=7800
 e=760
 total=a+b+c+d+e
-print(total)
+print(total
 
+      "i am learning a programing in carier craft indtitute"
+      
