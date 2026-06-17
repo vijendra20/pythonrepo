@@ -9,3 +9,8 @@ if b%2==0:
     print("even number")
 else:
     print("odd number")
+
+    age=16
+    result="adult "if age>=18 else "minor"
+    print(result)
+
