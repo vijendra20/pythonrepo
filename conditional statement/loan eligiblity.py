@@ -1,12 +1,5 @@
 age=15
 salary=35000
-# if age>=18 and salary>=30000:
-#     print("you are eligible")
-#     print("---------------------")
-# age=20
-# salary=30000
-# if age>=18 and salary<=32000:
-#     print("you are not eligible")
 if age>=18:
     if salary>=30000:
         print("you are eligible to lown")
